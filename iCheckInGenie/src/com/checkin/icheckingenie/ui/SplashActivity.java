@@ -25,6 +25,9 @@ public class SplashActivity extends ActionBarActivity {
 //                SplashActivity.this.startActivity(mainIntent);
 //                SplashActivity.this.finish();
             	
+            	
+            	
+            	
             	// Launch the next activity...
             	String url = "http://www.google.com";
             	Intent i = new Intent(Intent.ACTION_VIEW);
